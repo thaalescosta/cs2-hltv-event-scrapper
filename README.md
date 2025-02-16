@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-// ... existing code ...
-# CS2 Professional Match Data Analysis Pipeline
+# CS2 Match Data Analysis Pipeline
 
 A comprehensive data pipeline for extracting, transforming, and analyzing professional Counter-Strike 2 match data from HLTV.org. This project automates the collection of match statistics, player performance metrics, and game events to enable detailed esports analytics.
 
